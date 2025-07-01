@@ -13,7 +13,7 @@ body {
 
 h1 {
   margin-bottom: 40px;
-  color: #0056b3;
+  color: #0a7e33;
 }
 
 .container {
@@ -26,7 +26,7 @@ h1 {
 .card {
   background-color: white;
   border-radius: 16px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 12px rgba(17, 5, 7, 0.1);
   padding: 25px;
   width: 320px;
   text-align: left;
@@ -44,7 +44,7 @@ input[type="email"] {
 
 button {
   margin-top: 15px;
-  background-color: #007bff;
+  background-color: #4609ae;
   color: white;
   border: none;
   padding: 10px 15px;
